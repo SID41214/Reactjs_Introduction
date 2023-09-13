@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: lightblue;
+    padding: 50px;
+}
+.fluid-ui-button-blue{
+    background-color: blue;
+    border-radius: 15%;
+    color: white;
+    font-size: larger;
+}
